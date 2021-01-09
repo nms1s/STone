@@ -13,8 +13,6 @@ and randomly chooses two topics for each day for the person to work on.
         etc.
         These questions can be customized to better fit whatever the person is trying to learn. 
 
-    
-At any point in time Stone can pull up the documented notes from a specific day for the user to review. 
 
 USER'S BIBLE:
  The Bible will be created at the first interaction with Stone and can be completed overtime.
